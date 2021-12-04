@@ -1,0 +1,10 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#display {
+    background-color: black;
+    display: block;
+    margin: auto;
+}
